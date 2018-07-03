@@ -1,4 +1,4 @@
-object sqrt1 {
+object sqrt2 {
 
   def sqrt(num: Double): Double = {
 
