@@ -26,4 +26,8 @@ object sum {
   sum(sum ,1, 10)
   sum(cube, 1, 5)
   sum(factorial, 1, 4)
+
+  sum ((x : Int) => x, 1, 10)
+  sum ((x : Int) => x*x*x, 1, 5)
+
 }
